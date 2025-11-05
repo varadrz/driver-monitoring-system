@@ -3,6 +3,11 @@
 
 An intelligent **Driver Monitoring System** that detects driver drowsiness and distraction in real-time, providing alerts and simulating a virtual car interior.
 
+# Demo Video
+
+
+https://github.com/user-attachments/assets/4a381090-88dc-4dcf-a135-98c11451f841
+
 
 ## Features
 
